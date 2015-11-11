@@ -1,2 +1,2 @@
 # practice
-Repo for mastering skills in git
+Some changes
