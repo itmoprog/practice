@@ -1,2 +1,2 @@
 # practice
-Some changes
+finally i did smth
